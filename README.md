@@ -24,7 +24,7 @@ Just write like Brainfsck but change the command to Thai
 |- |ลด |
 |. |พิมพ์ |
 |, |ใส่ |
-|[ |ข้ามวนถ้าหากว่าช่องนี้เป็น๐ |
+|[ |ข้ามวนถ้าหากว่าช่องที่ชี้อยู่เป็น๐ |
 |] |วน |
 
 ## Special Feature
